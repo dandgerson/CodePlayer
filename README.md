@@ -1,2 +1,2 @@
-##my hand-made small code player as jsbin
-![alt text](/prntscrn.png)
+##my hand-made small code player like jsbin
+![scrin codeplayer](/prntscrn.PNG)
